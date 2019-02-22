@@ -1,0 +1,10 @@
+h1 {color: MidnightBlue; font-size: 200%; font-weight: bold; text-align: center;}
+
+p {color: DarkSlateGray; font-size: 20pt; text-align: center;}
+
+Body { background: lightblue; 
+	     color: MidnightBlue;
+	     font-size: 14pt;
+	text-align: center; 
+	   }
+a:hover { color: lime }
